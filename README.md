@@ -32,19 +32,9 @@ The goal of this project is to create a smooth and user-friendly POS interface t
 
 ---
 
-## 📸 Screenshots
-*(Add screenshots of your POS screens here once available)*  
-
----
 
 ## 🎯 Future Scope
 - Integration with backend services (Firebase / Supabase / REST APIs)  
 - Adding billing, inventory, and user management features  
 - Enhancing responsiveness for tablets and mobile  
 
----
-
-## 💻 How to Run
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
